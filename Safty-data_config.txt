@@ -1,8 +1,0 @@
-path: 'C:\Users\Nada\Desktop\Project\yolo-safty\code\data_2'
-train: train/images
-val: valid/images
-test: test/images
-
-nc: 5
-names: ['fall', 'Safty-Vest', 'Helmet', 'without_Helmet', 'without_Safty-Vest']
-
